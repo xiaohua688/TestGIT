@@ -7,6 +7,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     private String str="hello test v1.1";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
